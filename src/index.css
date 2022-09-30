@@ -1029,6 +1029,7 @@ button:hover {
         align-items: center;
         justify-content: center;
         margin: 1rem 0;
+        
     }
 
     .testimonial_section {
@@ -1046,6 +1047,7 @@ button:hover {
         height: 350px;
         margin-bottom: 15px;
         font-size: 17px;
+        overflow: hidden;
     }
     
     .testimonial_card span {

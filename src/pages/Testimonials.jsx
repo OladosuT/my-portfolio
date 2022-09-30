@@ -22,9 +22,7 @@ const Testimonials = () => {
 							<span>"</span>working with Taiwo was better than expected and we
 							had really high expectations He is an incredibly talented
 							developer but what really makes him stand out is his work ethics
-							and steady approach. Time after time without us asking, he added
-							enhancements and improvements that resulted in a better end
-							product for us and our client
+							and steady approach. Time after time without us asking.
 						</p>
 					</div>
 					<div className="testimonial_card">
